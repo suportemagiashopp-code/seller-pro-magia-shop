@@ -1,0 +1,19 @@
+SELLER PRO — INSTALAÇÃO GRATUITA
+
+1. Extraia o ZIP.
+2. Para testar no computador, abra index.html no navegador. (A instalação como aplicativo e o modo offline exigem hospedagem HTTPS.)
+3. Crie uma conta gratuita em https://github.com e um repositório público novo, por exemplo seller-pro.
+4. No repositório, escolha Add file > Upload files e envie os arquivos de dentro da pasta seller-pro (não envie apenas o ZIP).
+5. Acesse Settings > Pages > Build and deployment > Deploy from a branch; escolha main e / (root); Save.
+6. Aguarde a publicação e abra https://SEU-USUARIO.github.io/seller-pro/ no celular.
+7. Android/Chrome: menu ⋮ > Adicionar à tela inicial > Instalar (nomes variam).
+8. iPhone/Safari: Compartilhar > Adicionar à Tela de Início > Adicionar.
+9. Abra o app uma vez com internet para armazenar os arquivos para uso offline.
+
+OBSERVAÇÕES
+- O GitHub Pages tem hospedagem gratuita para repositórios públicos elegíveis, sujeita às regras atuais do GitHub.
+- Não coloque informações confidenciais no código ou no repositório público.
+- Histórico e perfis de taxas são armazenados localmente por navegador/aparelho; use Baixar backup JSON e Importar backup para transferir.
+- Taxas oficiais não são buscadas automaticamente: preencha os valores corretos do seu contrato/categoria.
+- A primeira versão assume uma unidade por pedido, e a taxa fixa é por pedido.
+- Não representa consultoria fiscal ou contábil.
