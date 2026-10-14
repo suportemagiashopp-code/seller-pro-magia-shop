@@ -19,3 +19,5 @@ OBSERVAÇÕES
 - Não representa consultoria fiscal ou contábil.
 
 VERSÃO 2: taxa automática TikTok Shop até R$49,99 = 10% + R$4; a partir de R$50 = 6% + R$6. Taxas fornecidas pelo usuário, confirmar vigência. Envie os arquivos SOLTOS à raiz do repositório.
+
+VERSÃO 3.0: comissões oficiais TikTok Shop de 15/07/2026, SFP 6% com teto de R$ 50 por produto, toggle independente, preço de equilíbrio e preço ideal incluindo SFP.
