@@ -17,3 +17,5 @@ OBSERVAÇÕES
 - Taxas oficiais não são buscadas automaticamente: preencha os valores corretos do seu contrato/categoria.
 - A primeira versão assume uma unidade por pedido, e a taxa fixa é por pedido.
 - Não representa consultoria fiscal ou contábil.
+
+VERSÃO 2: taxa automática TikTok Shop até R$49,99 = 10% + R$4; a partir de R$50 = 6% + R$6. Taxas fornecidas pelo usuário, confirmar vigência. Envie os arquivos SOLTOS à raiz do repositório.
