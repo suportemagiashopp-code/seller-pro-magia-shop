@@ -1,7 +1,27 @@
-Seller Pro Magia Shop v5.0
+SELLER PRO MAGIA SHOP — VERSÃO 6.0
 
-Atualização: Configurações por faixa de preço editáveis, SFP separado, afiliados, ADS, impostos e lucro mínimo. Dashboard e ícone da calculadora preservados.
+COMO ATUALIZAR O GITHUB (repositório seller-pro-magia-shop):
+1. ANTES DE TUDO: abra a versão atual do aplicativo e use o botão de backup, se houver. Guarde os dados importantes.
+2. Entre em https://github.com/suportemagiashopp-code/seller-pro-magia-shop
+3. Envie os CINCO arquivos desta pasta para a RAIZ do repositório (branch main):
+   index.html, manifest.webmanifest, sw.js, icon-192.png, icon-512.png.
+4. No GitHub, confirme a SUBSTITUIÇÃO dos arquivos existentes com os mesmos nomes e faça o commit.
+5. Aguarde a publicação no GitHub Pages.
+6. Abra https://suportemagiashopp-code.github.io/seller-pro-magia-shop/ e atualize a página.
+7. Se o aplicativo instalado mostrar versão antiga, feche e reabra; se necessário, limpe o cache do site com cuidado (isso pode apagar dados locais!).
 
-Envie os sete arquivos desta pasta para a raiz do repositório GitHub existente, substituindo os anteriores. Faça backup JSON antes. Após publicar, atualize o app; se necessário, feche e reabra.
+FUNCIONALIDADES:
+- Calculadora em tempo real: custo, venda, resultados, taxas discriminadas e dados complementares.
+- Taxas por faixa de preço configuráveis, SFP opcional, afiliado 5%, ADS 3,5%, lucro mínimo R$ 7.
+- Produtos, listas, etiquetas, fornecedores e catálogos.
+- Análise manual de concorrentes, demanda e qualidade com limiares editáveis.
+- Financeiro: caixas/unidades, investimento, lucro potencial, orçamento disponível, saldo e impressão em PDF.
+- Dashboard, tema claro/escuro, backup e restauração em JSON.
+- Ícone aprovado de calculadora no cabeçalho, navegador e PWA.
 
-As taxas são parâmetros configuráveis, não confirmação das condições específicas da sua conta.
+IMPORTANTE:
+- Os dados ficam no navegador/dispositivo; NÃO há sincronização automática entre computador e celular.
+- Taxas TikTok são hipóteses configuráveis e devem ser conferidas na Central do Vendedor.
+- O lucro financeiro é uma projeção baseada nos parâmetros da simulação.
+- A exportação PDF usa a janela de impressão do navegador: escolha "Salvar como PDF".
+- Esta atualização não modifica o seu repositório automaticamente.
