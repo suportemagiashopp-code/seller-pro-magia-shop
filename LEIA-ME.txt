@@ -1,4 +1,4 @@
-SELLER PRO MAGIA SHOP — VERSÃO 6.0
+SELLER PRO MAGIA SHOP — VERSÃO 6.1
 
 COMO ATUALIZAR O GITHUB (repositório seller-pro-magia-shop):
 1. ANTES DE TUDO: abra a versão atual do aplicativo e use o botão de backup, se houver. Guarde os dados importantes.
@@ -15,6 +15,9 @@ FUNCIONALIDADES:
 - Taxas por faixa de preço configuráveis, SFP opcional, afiliado 5%, ADS 3,5%, lucro mínimo R$ 7.
 - Produtos, listas, etiquetas, fornecedores e catálogos.
 - Análise manual de concorrentes, demanda e qualidade com limiares editáveis.
+- Comparativo de preços: média, menor/maior preço e diferenças em reais e porcentagem.
+- Edição de produto atualiza o cadastro existente, sem duplicar.
+- Montador de Kits para TikTok Shop: até 5 custos manuais, custos adicionais, preço recomendado por lucro/margem ou análise de preço informado.
 - Financeiro: caixas/unidades, investimento, lucro potencial, orçamento disponível, saldo e impressão em PDF.
 - Dashboard, tema claro/escuro, backup e restauração em JSON.
 - Ícone aprovado de calculadora no cabeçalho, navegador e PWA.
